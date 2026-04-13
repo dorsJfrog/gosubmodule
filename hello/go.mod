@@ -1,3 +1,3 @@
-module github.com/dorsJfrog/gosubmodule/hello/v5
+module github.com/dorsJfrog/gosubmodule/hello
 
 go 1.25.5
