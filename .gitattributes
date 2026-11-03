@@ -1,1 +1,3 @@
 .VERSION export-subst
+IGNORED.txt export-ignore
+ignored_dir export-ignore
